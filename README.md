@@ -217,7 +217,7 @@ these guidelines:
 
 2.  **Clone Your Fork:** Clone your forked repository to your local
     > machine:  
-    > git clone https://github.com/your-username/eduquiz.git
+    > git clone https://github.com/RA-L-PH/eduquiz.git
 
 3.  **Create a New Branch:** Always create a new branch for your
     > feature, bug fix, or enhancement. Use descriptive branch names
